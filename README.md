@@ -1,4 +1,4 @@
-## Olá! Eu sou o Sandrodev 23
+## Olá! Eu sou o Sandro
 
 <h1>Linguagens com conhecimento!</h1>
 <div style="display: inline_block">
@@ -15,11 +15,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrodev23&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-<h1>Linguagens em estudo!</h1>
+<h1>Linguagens e bibliotecas em estudo!</h1>
 <div style="display": inline_block>
    <img align="center" alt="sandrodev-python" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-   <img align="center" alt="sandrodev-python" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img align="center" alt="sandrodev-python" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+   <img align="center" alt="sandrodev-python" height="40" width="40"  src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" />
+   <img align="center" alt="sandrodev-python" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
      
 </div><br>
 <h1>Contatos</h1>
