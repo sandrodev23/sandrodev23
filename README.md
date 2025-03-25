@@ -21,6 +21,7 @@
 <h1>Linguagens e bibliotecas em estudo!</h1>
 <div style="display": inline_block>
    <img align="center" alt="sandrodev-python" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="sandrodev-python" height="40" width="40"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355" />
    <img align="center" alt="sandrodev-python" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
    <img align="center" alt="sandrodev-python" height="40" width="40"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" />
   
