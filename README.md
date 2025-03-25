@@ -10,7 +10,7 @@
 </div>
 
 <di>
-  <h2>Estatísticas
+  <h2>Estatísticas<h2>
   <a href="https://github.com/sandrodev23">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandrodev23&show_icons=true&theme=dark&includ_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrodev23&layout=compact&langs_count=16&theme=dark"/>
